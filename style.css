@@ -1,0 +1,15 @@
+body{
+    background-image: url(FundoTrocaIMG.jpg);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    text-decoration-color: rgb(7, 7, 69);
+    font-size: 50px;
+}
+
+input{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration-color: rgb(7, 7, 69);
+    border-radius: 10px 10px 10px;
+    box-shadow: 5px 5px 0 0 rgb(7, 7, 69);
+    font-size: 30px;
+}
