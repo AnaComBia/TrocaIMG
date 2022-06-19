@@ -6,10 +6,33 @@ body{
     font-size: 50px;
 }
 
-input{
+#trocar{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-decoration-color: rgb(7, 7, 69);
     border-radius: 10px 10px 10px;
+    border-color: rgb(7, 7, 69);
     box-shadow: 5px 5px 0 0 rgb(7, 7, 69);
     font-size: 30px;
+}
+
+
+
+img{
+    opacity: 0;
+    max-height: 10px;
+}
+
+.aparece{
+    opacity: 1;
+    border-radius: 5%;
+    max-height: 400px;
+    box-shadow: 10px 10px 0 0 rgb(7, 7, 69);
+
+}
+
+#allimg{
+    align-items: center;
+    justify-content: center;
+    flex-direction: center;
+    position: center;
 }
